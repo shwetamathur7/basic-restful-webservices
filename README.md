@@ -10,6 +10,9 @@
 4)Exception mapper support  
 5)Covers @PathParam, @Path, @Consumes, @Produces, @BeanParam, @Context, @QueryParam, @CookieParam, @HeaderParam etc  
 
+*Note: Go through the java docs. Each method has request response example. This will help in better understanding*  
+
+
 ##### URI's
 
 * http://localhost:8080/RESTfulWebServicesSample/rest/persons
