@@ -25,6 +25,7 @@
 * http://localhost:8080/RESTfulWebServicesSample/rest/test/testContextHttpHeader
 * http://localhost:8080/RESTfulWebServicesSample/rest/test/testBeanParam?year=2016&start=3&size=8
 
+*Note: This project needs to be refactored to use best practices which will be done later. As of now this code should be used only for understanding purposes.*
 
 ##### Response sample
 
