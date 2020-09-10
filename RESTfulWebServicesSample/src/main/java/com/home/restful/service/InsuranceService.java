@@ -11,7 +11,7 @@ import com.home.restful.repository.PersonRepository;
 /**
  * This class is serviceImpl class. Normally this class should implement service interface and implement the methods of interface
  * 
- * @author preetham
+ * @author shwetaM
  */
 public class InsuranceService
 {
@@ -20,7 +20,7 @@ public class InsuranceService
 
    public InsuranceService()
    {
-      System.out.println( "Insurance service called" );
+      System.out.println( "Insurance service called by branch2" );
    }
 
    public List<Insurance> getAllInsurances( long personId )
