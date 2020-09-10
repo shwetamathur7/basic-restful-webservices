@@ -9,7 +9,7 @@ import com.home.restful.repository.PersonRepository;
 /**
  * This class is serviceImpl class. Normally this class should implement service interface and implement the methods of interface
  * 
- * @author preetham
+ * @author shweta
  */
 public class PersonService
 {
@@ -18,7 +18,7 @@ public class PersonService
 
    public PersonService()
    {
-      System.out.println( "Person service called" );
+      System.out.println( "Person service called by Branch1" );
    }
 
    public List<Person> getAllPersons()
